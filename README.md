@@ -1,10 +1,9 @@
 # Hey there! I'm Benedetta 👋
 
-Biomedical Engineer and PhD Researcher at KU Leuven working on EEG-based brain-computer interfaces and biomedical signal processing.
+Biomedical Engineer and PhD Researcher at KU Leuven working on auditory attention decoding.
 
 ## About me
 
-🧠 Currently developing calibration-free EEG-based BCIs for auditory attention decoding  
 📊 Passionate about signal analysis and neuroengineering  
 🏥 Interested in technologies that can improve healthcare and medicine through AI and biomedical engineering  
 🌙 Previously worked on automated sleep disorder assessment using polysomnographic data  
