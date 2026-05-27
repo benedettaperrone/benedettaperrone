@@ -8,19 +8,7 @@ Biomedical Engineer and PhD Researcher at KU Leuven working on EEG-based brain-c
 📊 Passionate about signal analysis and neuroengineering  
 🏥 Interested in technologies that can improve healthcare and medicine through AI and biomedical engineering  
 🌙 Previously worked on automated sleep disorder assessment using polysomnographic data  
-🗣️ MSc thesis focused on speech signal analysis in Parkinson’s disease using deep learning techniques  
-🎙️ Strong interest in voice and speech processing, probably because I genuinely love communication and human interaction  
-🎓 MSc in Biomedical Engineering @ Politecnico di Torino (110/110 cum laude)  
+🗣️ MSc thesis at @PoliTo focused on speech signal analysis in Parkinson’s disease using deep learning techniques  
+🎙️ Strong interest in voice and speech processing, probably because I genuinely love communication and human interaction! 
 
-## Tech Stack
 
-```python
-Languages = ["Python", "MATLAB", "C"]
-Fields = [
-    "EEG",
-    "BCI",
-    "Signal Processing",
-    "Speech Processing",
-    "Machine Learning",
-    "Deep Learning"
-]
