@@ -15,4 +15,4 @@ Biomedical engineer and PhD researcher at **KU Leuven**, FWO PhD Fellow in Strat
 - 🗣️ MSc thesis at Politecnico di Torino on speech signal analysis in Parkinson's disease using deep learning
 - 🎙️ Strong interest in voice and speech processing, probably because I genuinely love communication and human interaction!
 
-![Profile views](https://komarev.com/ghpvc/?username=benedettaperrone&color=lightgrey)
+
